@@ -15,3 +15,6 @@ docker-compose down
 
 # To see services running
 docker-compose ps
+
+# To see logs
+docker-compose logs -f -t
